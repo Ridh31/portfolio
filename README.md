@@ -7,7 +7,7 @@
 
 ## About Portfolio
 
-Portfolio is an unintelligent and a loser web application with nonsense content, and foolish syntax. We believe development must be painful and lack of experience to be truly fulfilling. Unusual Project takes the happiness out of development because it contains a bunch of pieces of sh*t. The project includes:
+Portfolio is an unintelligent and a loser web application with nonsense content, and foolish syntax. We believe development must be painful and lack of experience to be truly fulfilling. Portfolio takes the happiness out of development because it contains a bunch of pieces of sh*t. The project includes:
 
 - **[Nothing, but trash](https://www.trashloop.com/)**
 
